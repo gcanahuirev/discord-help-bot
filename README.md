@@ -31,4 +31,4 @@ DISCORD_BOT_TOKEN=<TU-TOKEN> ./target/debug/discord-help-bot
 
 - [Discord Developer Portal](https://discord.com/developers/home)
 - [Build a Discord Bot with Rust and Serenity](developers.facebook.com/blog/post/2020/09/30/build-discord-bot-with-rust-and-serenity/)
-- [Discord Developer Portal Guide: Getting Started with Discord's AP](https://www.discords.ai/wiki/discord-developer-portal-guide)
+- [Discord Developer Portal Guide: Getting Started with Discord's API](https://www.discords.ai/wiki/discord-developer-portal-guide)
